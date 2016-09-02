@@ -1,0 +1,28 @@
+{
+  "name": "pushengage",
+  "version": "1.0.0",
+  "description": "Personalized Browser Push Notifications from node.js",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikandants/node-pushengage.git"
+  },
+  "keywords": [
+    "pushengage",
+    "browser",
+    "notifications",
+    "push"
+  ],
+  "author": "Manikandan TS <manikandan.citeee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manikandants/node-pushengage/issues"
+  },
+  "homepage": "https://github.com/manikandants/node-pushengage#readme",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
