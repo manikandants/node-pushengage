@@ -1,6 +1,6 @@
 {
   "name": "pushengage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personalized Browser Push Notifications from node.js",
   "main": "./lib/index.js",
   "scripts": {
@@ -23,6 +23,9 @@
   },
   "homepage": "https://github.com/manikandants/node-pushengage#readme",
   "dependencies": {
-    "request": "^2.74.0"
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "jscs": "^3.0.7"
   }
 }
